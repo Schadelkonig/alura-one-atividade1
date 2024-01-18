@@ -1,1 +1,1 @@
-# Boas vindas ao jogo do número secreto!
+# Atividade 1
